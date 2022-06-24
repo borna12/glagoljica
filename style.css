@@ -231,6 +231,7 @@ span.swatch {
   box-sizing: border-box;
   background: #eee;
   color: #111;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 [class^="element-"] .face.back p {
