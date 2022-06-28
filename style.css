@@ -3,6 +3,12 @@
   src: url(fsgla.ttf);
 }
 
+@font-face {
+  font-family: obla;
+  src: url(oblglag7.ttf);
+}
+
+
 #periodni {
   line-height: 1;
 }
